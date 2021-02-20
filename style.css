@@ -1,0 +1,65 @@
+h1{
+    background-color: black;
+    color: yellow;
+    display: flex;
+    justify-content: center ;
+}
+body{
+    border: double;
+    background-color:thistle ;
+}
+p{
+    font-family:cursive;
+
+  color: blue;
+}
+hr{
+    border: dashed;
+    
+}
+a{
+    color:green;
+}
+h3{
+    font-family: cursive;
+}
+.head{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+.topic{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+.subtopic{
+    font-family: cursive;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+.animal1{
+    display: flex;
+    justify-content: wrap;
+}
+.animal2{
+    display: flex;
+    justify-content: wrap;
+}
+.animal3{
+    display: flex;
+    justify-content: wrap;
+}
+.animal4{
+    display: flex;
+    justify-content: wrap;
+}
+.animal5{
+    display: flex;
+    justify-content: wrap;
+}
+.animal6{
+    display: flex;
+    justify-content: wrap;
+}
